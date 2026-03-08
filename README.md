@@ -11,8 +11,6 @@ Aplikasi ini merupakan implementasi sederhana menggunakan framework Flutter yang
 
 ## Pratinjau Aplikasi
 Berikut adalah tampilan antarmuka aplikasi:
-
-![Cuplikan Layar Aplikasi]
 <img width="1919" height="822" alt="image" src="https://github.com/user-attachments/assets/60bb77be-c89d-436c-9129-488d3a37ed65" />
 
 ## Struktur Kode
